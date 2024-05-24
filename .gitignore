@@ -1,0 +1,4 @@
+.idea
+.env
+/chat-env/
+node_modules/

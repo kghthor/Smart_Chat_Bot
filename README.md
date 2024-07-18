@@ -3,7 +3,7 @@
 ## Objective
 Design and sketch an architecture for a scalable chatbot dialogue management system similar to ChatGPT.
 
-## Requirements
+## Requirements 
 
 ### 1. Architecture Design
 - **Session Management:** Users should be able to create and manage multiple chat sessions.
